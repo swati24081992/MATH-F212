@@ -29,6 +29,7 @@
 - [Lecture Schedule](#lecture-schedule)
 - [Practical Schedule](#practical-schedule)
 - [Homework Schedule](#homework-schedule)
+- [Python Revision](#python-revision)
 - [Course References](#course-references)
 - [Grading](#grading)
 - [Project](#project)
@@ -110,6 +111,10 @@ A total of three homeworks would be given
 | HW2 |  [Homework 2](Homeworks/HW2.pdf) | | [Solution](Homeworks/HW2sol.pdf)|
 | HW3 |  [Homework 3](Homeworks/HW3.pdf) | [Datafiles](https://drive.google.com/file/d/1a8ZTb2gswnOnEw_IJMuUWsqoUgMgxwte/view?usp=sharing) <br> [Template](https://colab.research.google.com/drive/1tuCsaljFLtdzr6AxNK83e6-alNj4wdJP?usp=sharing)| [Solution](Homeworks/HW3sol.pdf)|
 
+## Python revision
+Python is the language that will be used for coding. Being good at Python means you can get things done faster because it's known for being quite simple. You can try out your ideas quickly and whip up some short and sweet code in Python. As a hands-on coder, you do not need to dig deep into how Python is built, but it is good to know it can handle a bunch of tasks.
+
+Jump into this [revision](), and in a week, you will pick up some cool Python tricks.
 
 ## Course References
 
