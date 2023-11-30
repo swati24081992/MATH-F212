@@ -4,7 +4,7 @@ It can be difficult to install a Python machine learning environment on some dev
 
 Here, I present how I setup my own Python machine learning IDE using Anaconda. You can follow the same to install and code in Python.
 
-These instructions are suitable for Windows, MAC OS, and Linux platforms. I will demonstrate them on Windows, so you may see some Windows dialogs and file extensions.
+I will demonstrate the installation instruction on Windows, so you may see some Windows dialogs and file extensions. However, these instructions may also be suitable for MAC OS and Linux platforms. 
 
 # Overview
 We will cover the following steps:
