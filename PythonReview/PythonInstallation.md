@@ -21,9 +21,10 @@ Anaconda is a free and easy-to-use environment for scientific Python.
 # 2. Start and update Anaconda
 You should confirm that your Anaconda python environment is up to date.
 
-Anaconda comes with a set of graphical tools which you can find in the Anaconda Navigator. You can start the Anaconda Navigator by opening it.
+Anaconda comes with a set of graphical tools which you can find in the Anaconda Navigator. You can start the Anaconda Navigator GUI by opening it. You can learn more about the Navigator [here](https://docs.continuum.io/free/navigator/)
 
 ![image](https://github.com/coursesAM/APL405W24/assets/109568856/80ef2ac3-13c7-469e-bb60-961307346c9e)
+
 
 
   
