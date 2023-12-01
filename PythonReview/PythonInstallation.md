@@ -12,11 +12,18 @@ We will cover the following steps:
 1. Download and Install Anaconda
 2. Start and update Anaconda
 
-# 1. Download and Install Anaconda
+# 1. Download and install Anaconda
 Anaconda is a free and easy-to-use environment for scientific Python.
 
 * Download the Anaconda Python package for the appropriate OS (Windows/MAC/Linux) from [Anaconda webpage](https://www.anaconda.com/download). The file is about 1 GB.
-* For installation, follow the instructions [here]().
+* For installation, follow the instructions [here](https://docs.anaconda.com/free/anaconda/install/).
 
-# 2. Install Anaconda
+# 2. Start and update Anaconda
+You should confirm that your Anaconda python environment is up to date.
+
+Anaconda comes with a set of graphical tools which you can find in the Anaconda Navigator. You can start the Anaconda Navigator by opening it.
+
+![image](https://github.com/coursesAM/APL405W24/assets/109568856/80ef2ac3-13c7-469e-bb60-961307346c9e)
+
+
   
