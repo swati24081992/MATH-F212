@@ -25,6 +25,16 @@ Anaconda comes with a set of graphical tools which you can find in the Anaconda 
 
 ![image](https://github.com/coursesAM/APL405W24/assets/109568856/80ef2ac3-13c7-469e-bb60-961307346c9e)
 
+You can use the Anaconda Navigator to open graphical environments like Spyder or Jupyter, however, for now, I recommend starting with Anaconda command line environment called **conda**.
+
+**Conda** is simple and fast and you can quickly check if your environment is installed and working correctly.
+
+* Open a terminal (command prompt)
+* check if conda is installed correctly, by typing:
+```
+conda -V
+```
+
 
 
   
