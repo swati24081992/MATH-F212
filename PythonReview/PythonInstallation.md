@@ -61,16 +61,16 @@ The script below will print the version number of the certain key libraries you 
 ```python
 # scipy
 import scipy
-print('scipy: %s' % scipy.__version__)
+print(scipy.__version__)
 # numpy
 import numpy
-print('numpy: %s' % numpy.__version__)
+print(numpy.__version__)
 # matplotlib
 import matplotlib
-print('matplotlib: %s' % matplotlib.__version__)
+print(matplotlib.__version__)
 # pandas
 import pandas
-print('pandas: %s' % pandas.__version__)
+print(pandas.__version__)
 # statsmodels
 import statsmodels
 print('statsmodels: %s' % statsmodels.__version__)
