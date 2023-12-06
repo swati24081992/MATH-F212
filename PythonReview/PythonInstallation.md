@@ -83,8 +83,7 @@ You can type ``python'' and type the commands in the anaconda prompt directly.
 
 ![image](https://github.com/coursesAM/APL405W24/assets/109568856/7312f298-af43-44f9-8a1a-8df0b2ae1e77)
 
-![image](https://github.com/coursesAM/APL405W24/assets/109568856/ae6a58b1-47a2-4201-b386-4b633bd144d5)
-<img src="https://github.com/coursesAM/APL405W24/assets/109568856/ae6a58b1-47a2-4201-b386-4b633bd144d5" width="40%" height="40%">
+<img src="https://github.com/coursesAM/APL405W24/assets/109568856/ae6a58b1-47a2-4201-b386-4b633bd144d5" width="30%" height="30%">
 
 Alternatively, I recommend opening a text editor and copy-pasting the script into your editor.
 
