@@ -63,21 +63,20 @@ You can type "python" and type the following commands in the anaconda prompt dir
 
 <img src="https://github.com/coursesAM/APL405W24/assets/109568856/ae6a58b1-47a2-4201-b386-4b633bd144d5" width="30%" height="30%">
 
-Alternatively, I recommend opening a text editor and copy-pasting the following script into your editor.
-
+Alternatively, I recommend opening a text editor and copy-pasting the following script into your editor. 
 ```python
 # scipy
 import scipy
-print(scipy.__version__)
+print('scipy: %s' % scipy.__version__)
 # numpy
 import numpy
-print(numpy.__version__)
+print('numpy: %s' % numpy.__version__)
 # matplotlib
 import matplotlib
-print(matplotlib.__version__)
+print('matplotlib: %s' % matplotlib.__version__)
 # pandas
 import pandas
-print(pandas.__version__)
+print('pandas: %s' % pandas.__version__)
 # statsmodels
 import statsmodels
 print('statsmodels: %s' % statsmodels.__version__)
@@ -85,6 +84,32 @@ print('statsmodels: %s' % statsmodels.__version__)
 import sklearn
 print('sklearn: %s' % sklearn.__version__)
 ```
+Save the script as a file with a name (say): *versions.py*
+
+On the Anaconda prompt, change your directory to where you saved the script, and type:
+```
+python versions.py
+```
+and you should see the output like the following:
+
+![image](https://github.com/coursesAM/APL405W24/assets/109568856/4660d600-5324-41d7-b008-6d8eba5ab29b)
+
+
+# Update scikit-learn library to the latest version
+
+At the time of writing, the version of scikit-learn that was installed with Anaconda is out-of-date (1.3.0 instead of 1.11.4). 
+You can update a specific library by using the conda command; below is an example of updating the scikit-learn to the latest version.
+
+At the Anaconda prompt, type:
+```
+conda update scikit-learn
+```
+Alternatively, you can update a library to a specific version by typing:
+```
+conda install -c anaconda scikit-learn=1.11.2
+```
+
+
 
 
 
