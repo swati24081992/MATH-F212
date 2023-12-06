@@ -57,7 +57,8 @@ conda update anaconda
 * Check if required libraries are installed or not
 
 The script below will print the version number of the certain key libraries you require for machine learning: SciPy, NumPy, Matplotlib, Pandas, Statsmodels, and Scikit-learn.
-```
+
+```python
 # scipy
 import scipy
 print('scipy: %s' % scipy.__version__)
