@@ -55,8 +55,15 @@ conda update anaconda
 ```
 
 * Check if required libraries are installed or not
+There are certain key libraries that you would require for machine learning: SciPy, NumPy, Matplotlib, Pandas, Statsmodels, and Scikit-learn.
 
-The script below will print the version number of the certain key libraries you require for machine learning: SciPy, NumPy, Matplotlib, Pandas, Statsmodels, and Scikit-learn.
+You can type "python" and type the following commands in the anaconda prompt directly. 
+
+![image](https://github.com/coursesAM/APL405W24/assets/109568856/7312f298-af43-44f9-8a1a-8df0b2ae1e77)
+
+<img src="https://github.com/coursesAM/APL405W24/assets/109568856/ae6a58b1-47a2-4201-b386-4b633bd144d5" width="30%" height="30%">
+
+Alternatively, I recommend opening a text editor and copy-pasting the following script into your editor.
 
 ```python
 # scipy
@@ -78,14 +85,6 @@ print('statsmodels: %s' % statsmodels.__version__)
 import sklearn
 print('sklearn: %s' % sklearn.__version__)
 ```
-
-You can type ``python'' and type the commands in the anaconda prompt directly. 
-
-![image](https://github.com/coursesAM/APL405W24/assets/109568856/7312f298-af43-44f9-8a1a-8df0b2ae1e77)
-
-<img src="https://github.com/coursesAM/APL405W24/assets/109568856/ae6a58b1-47a2-4201-b386-4b633bd144d5" width="30%" height="30%">
-
-Alternatively, I recommend opening a text editor and copy-pasting the script into your editor.
 
 
 
