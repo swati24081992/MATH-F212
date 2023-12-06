@@ -35,13 +35,17 @@ You can use the Anaconda Navigator to open graphical environments like Spyder or
 conda -V
 ```
 You should see the following (or something similar):
+
 ![image](https://github.com/coursesAM/APL405W24/assets/109568856/bacae894-63dd-42d5-83a1-f75409e96930)
+
 * Check if python is installed properly by typing:
 ```
 python -V
 ```
 You should see the following (or something similar):
+
 ![image](https://github.com/coursesAM/APL405W24/assets/109568856/53c74375-f927-41d4-a42a-053671aec3eb)
+
 If the commands do not work or they throw an error, check with the documentation for help (based on your OS/platform).
 
 * Check if your conda environment is up-to-date, by typing:
