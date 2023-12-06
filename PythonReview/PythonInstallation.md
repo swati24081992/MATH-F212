@@ -95,9 +95,8 @@ and you should see the output like the following:
 ![image](https://github.com/coursesAM/APL405W24/assets/109568856/4660d600-5324-41d7-b008-6d8eba5ab29b)
 
 
-# Update scikit-learn library to the latest version
+# Update libraries to the latest version
 
-At the time of writing, the version of scikit-learn that was installed with Anaconda is out-of-date (1.3.0 instead of 1.11.4). 
 You can update a specific library by using the conda command; below is an example of updating the scikit-learn to the latest version.
 
 At the Anaconda prompt, type:
@@ -106,7 +105,7 @@ conda update scikit-learn
 ```
 Alternatively, you can update a library to a specific version by typing:
 ```
-conda install -c anaconda scikit-learn=1.11.2
+conda install -c anaconda scikit-learn=1.2.0
 ```
 
 
