@@ -30,7 +30,7 @@ You can use the Anaconda Navigator to open graphical environments like Spyder or
 **Conda** is simple and fast and you can quickly check if your environment is installed and working correctly.
 
 * Open an Anaconda prompt
-* check if conda is installed correctly, by typing:
+* Check if conda is installed correctly, by typing:
 ```
 conda -V
 ```
@@ -38,7 +38,7 @@ You should see the following (or something similar):
 
 ![image](https://github.com/coursesAM/APL405W24/assets/109568856/bacae894-63dd-42d5-83a1-f75409e96930)
 
-* Check if python is installed properly by typing:
+* Check if Python is installed properly by typing:
 ```
 python -V
 ```
@@ -54,7 +54,40 @@ conda update conda
 conda update anaconda
 ```
 
-* confirm the Scipy environment
+* Check if required libraries are installed or not
+
+The script below will print the version number of the certain key libraries you require for machine learning: SciPy, NumPy, Matplotlib, Pandas, Statsmodels, and Scikit-learn.
+```
+# scipy
+import scipy
+print('scipy: %s' % scipy.__version__)
+# numpy
+import numpy
+print('numpy: %s' % numpy.__version__)
+# matplotlib
+import matplotlib
+print('matplotlib: %s' % matplotlib.__version__)
+# pandas
+import pandas
+print('pandas: %s' % pandas.__version__)
+# statsmodels
+import statsmodels
+print('statsmodels: %s' % statsmodels.__version__)
+# scikit-learn
+import sklearn
+print('sklearn: %s' % sklearn.__version__)
+```
+
+You can type ``python'' and type the commands in the anaconda prompt directly. 
+
+![image](https://github.com/coursesAM/APL405W24/assets/109568856/7312f298-af43-44f9-8a1a-8df0b2ae1e77)
+
+![image](https://github.com/coursesAM/APL405W24/assets/109568856/ae6a58b1-47a2-4201-b386-4b633bd144d5)
+
+
+Alternatively, I recommend opening a text editor and copy-pasting the script into your editor.
+
+
 
 
 
