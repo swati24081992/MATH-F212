@@ -105,8 +105,24 @@ conda update scikit-learn
 ```
 Alternatively, you can update a library to a specific version by typing:
 ```
-conda install -c anaconda scikit-learn=<*insert_version_number*>
+conda install -c anaconda scikit-learn=<insert_version_number>
 ```
+After installation, you can double-check by re-running the *versions.py* script.
+
+# Install PyTorch deep learning library
+
+In this step, you will install Python libraries used for deep learning, specifically PyTorch. Make sure yo
+
+PyTorch is a complete library that can train a deep learning model as well as run a model in inference mode and supports using GPU for faster training and inference.
+
+**NOTE**: I recommend using PyTorch for deep learning, although you can also use TensorFlow. You would not need both! 
+
+* Create a separate conda environment for your PyTorch installation, as it will allow you to manage its dependencies independently from the base Python installation. This will ensure a clean and isolated workspace for your deep learning projects. 
+
+![image](https://github.com/coursesAM/APL405W24/assets/109568856/6461c784-d8cc-49ea-807c-41f93dc25eb6)
+
+
+
 
 
 
