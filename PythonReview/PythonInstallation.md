@@ -99,13 +99,13 @@ and you should see the output like the following:
 
 You can update a specific library by using the conda command; below is an example of updating the scikit-learn to the latest version.
 
-At the Anaconda prompt, type:
+For example, at the Anaconda prompt, you type:
 ```
 conda update scikit-learn
 ```
 Alternatively, you can update a library to a specific version by typing:
 ```
-conda install -c anaconda scikit-learn=1.2.0
+conda install -c anaconda scikit-learn=<*insert_version_number*>
 ```
 
 
