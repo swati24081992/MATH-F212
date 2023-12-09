@@ -117,8 +117,18 @@ PyTorch is a complete library that can train a deep learning model as well as ru
 
 **NOTE**: I recommend using PyTorch for deep learning, although you can also use TensorFlow. You would not need both! 
 
-* Create a separate conda environment for your PyTorch installation, as it will allow you to manage its dependencies independently from the base Python installation. This will ensure a clean and isolated workspace for your deep learning projects. 
+* Create a separate conda environment for your PyTorch installation, as it will allow you to manage its dependencies independently from the base Python installation. This will ensure a clean and isolated workspace for your deep learning projects.
 
+  To create a new Conda environment, type the following command, replacing `<env_name>` with a descriptive name for your environment (e.g. `pytorch-cpu-python-3-11`).
+
+  ```
+  conda create --name pytorch-cpu-python-3-11 python=3.11
+  ```
+![image](https://github.com/coursesAM/APL405W24/assets/109568856/d4d27880-8fab-4554-bd90-ac1dd429f0a7)
+
+  
+ Note I am installing a CPU-only version of PyTorch. If you have GPU in your computer, you can 
+ 
 ![image](https://github.com/coursesAM/APL405W24/assets/109568856/6461c784-d8cc-49ea-807c-41f93dc25eb6)
 
 
