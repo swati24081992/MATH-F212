@@ -126,8 +126,12 @@ PyTorch is a complete library that can train a deep learning model as well as ru
   ```
 ![image](https://github.com/coursesAM/APL405W24/assets/109568856/d4d27880-8fab-4554-bd90-ac1dd429f0a7)
 
-  
- Note I am installing a CPU-only version of PyTorch. If you have GPU in your computer, you can 
+ Note that you have to mention the Python version that you want to install in this new environment 
+ I am installing PyTorch with Python version 3.11. Conda will install all essential packages in the new environment (after you give permission). Upon finishing, you will be able to find the new environment in the Anaconda Navigator (if you wish to see it)
+ 
+ ![image](https://github.com/coursesAM/APL405W24/assets/109568856/d0106b8f-ea2a-42c7-b361-0d63e6af856e)
+
+You have to now activate the environment
  
 ![image](https://github.com/coursesAM/APL405W24/assets/109568856/6461c784-d8cc-49ea-807c-41f93dc25eb6)
 
