@@ -127,7 +127,6 @@ PyTorch is a complete library that can train a deep learning model as well as ru
 ![image](https://github.com/coursesAM/APL405W24/assets/109568856/d4d27880-8fab-4554-bd90-ac1dd429f0a7)
 
  Note that you have to mention the Python version that you want to install in this new environment.  
- I am installing PyTorch with Python version 3.11.
  
  Conda will install all essential packages in the new environment (after you give permission). 
  
@@ -143,6 +142,12 @@ conda activate pytorch-cpu-python-3-11
 
  ![image](https://github.com/coursesAM/APL405W24/assets/109568856/9462e2ef-43a2-4a1a-9de9-0a33dd47f09a)
 
+Now you need to install PyTorch in this new environment:
+
+```
+conda install pytorch torchvision torchaudio cpuonly -c pytorch
+```
+![image](https://github.com/coursesAM/APL405W24/assets/109568856/64aaa74e-c531-42a0-a5de-54b1c39cfa49)
 
 
 
