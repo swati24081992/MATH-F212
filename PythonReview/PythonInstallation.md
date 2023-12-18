@@ -158,7 +158,9 @@ conda install pytorch torchvision torchaudio cpuonly -c pytorch
   ```
   Make sure that you switch on the Python environment by typing `python`
 
+# Summary
 
+Congratulations, you now have a working Python development environment for machine learning and deep learning.
 
 
 
