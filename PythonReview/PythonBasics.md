@@ -8,4 +8,4 @@ This review is for students who know some programming (as covered in COL106). Ma
 * You are conversant with basic programming concepts, such as variables, arrays, loops, and functions
 * You can work with Python using an Integrated Development Environment (IDE)
   
-This review is meant to help you transform from a novice programmer to someone who can code comformtably in Python. I will assume that you have a working Python 3.11 environment installed. If you need help with setting up of the environment, you can follow the step-by-step tutorial here:
+This review is meant to help you transform from a novice programmer to someone who can code comfortably in Python. I will assume that you have a working Python 3.11 environment installed. If you need help with setting up the environment, you can follow the step-by-step tutorial here:
