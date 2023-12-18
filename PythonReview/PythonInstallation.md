@@ -109,7 +109,7 @@ conda install -c anaconda scikit-learn=<insert_version_number>
 ```
 After installation, you can double-check by re-running the *versions.py* script.
 
-# Install PyTorch deep learning library
+# 3. Install PyTorch deep learning library
 
 In this step, you will install Python libraries used for deep learning, specifically PyTorch.
 
@@ -136,7 +136,7 @@ PyTorch is a complete library that can train a deep learning model as well as ru
  
  ![image](https://github.com/coursesAM/APL405W24/assets/109568856/d0106b8f-ea2a-42c7-b361-0d63e6af856e)
 
-You can activate the newly created environment by typing
+* Activate the newly created environment by typing:
 
 ```
 conda activate pytorch-cpu-python-3-11
@@ -144,14 +144,19 @@ conda activate pytorch-cpu-python-3-11
 
  ![image](https://github.com/coursesAM/APL405W24/assets/109568856/9462e2ef-43a2-4a1a-9de9-0a33dd47f09a)
 
-Now you need to install PyTorch in this new environment. 
+* Install PyTorch in this new environment. 
 
 ```
 conda install pytorch torchvision torchaudio cpuonly -c pytorch
 ```
 ![image](https://github.com/coursesAM/APL405W24/assets/109568856/64aaa74e-c531-42a0-a5de-54b1c39cfa49)
 
-
+* Verify installation by typing in the Python code:
+  ```python
+  import torch
+  print(torch.__version__)
+  ```
+  Make sure that you switch on the Python environment by typing `python`
 
 
 
