@@ -135,9 +135,14 @@ PyTorch is a complete library that can train a deep learning model as well as ru
  
  ![image](https://github.com/coursesAM/APL405W24/assets/109568856/d0106b8f-ea2a-42c7-b361-0d63e6af856e)
 
-You have to now activate the environment
- 
-![image](https://github.com/coursesAM/APL405W24/assets/109568856/6461c784-d8cc-49ea-807c-41f93dc25eb6)
+You can activate the newly created environment by typing
+
+```
+conda activate pytorch-cpu-python-3-11
+```
+
+ ![image](https://github.com/coursesAM/APL405W24/assets/109568856/9462e2ef-43a2-4a1a-9de9-0a33dd47f09a)
+
 
 
 
