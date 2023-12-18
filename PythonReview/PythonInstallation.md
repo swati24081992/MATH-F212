@@ -9,8 +9,10 @@ I will demonstrate the installation instructions on Windows, so you may see some
 # Overview
 We will cover the following steps:
 
-1. Download and Install Anaconda
+1. Download and Install Anaconda 
 2. Start and update Anaconda
+3. Update libraries to the latest version
+4. Install PyTorch deep learning library
 
 # 1. Download and install Anaconda
 Anaconda is a free and easy-to-use environment for scientific Python.
@@ -95,7 +97,7 @@ and you should see the output like the following:
 ![image](https://github.com/coursesAM/APL405W24/assets/109568856/4660d600-5324-41d7-b008-6d8eba5ab29b)
 
 
-# Update libraries to the latest version
+# 3. Update libraries to the latest version
 
 You can update a specific library by using the conda command; below is an example of updating the scikit-learn to the latest version.
 
@@ -109,7 +111,7 @@ conda install -c anaconda scikit-learn=<insert_version_number>
 ```
 After installation, you can double-check by re-running the *versions.py* script.
 
-# 3. Install PyTorch deep learning library
+# 4. Install PyTorch deep learning library
 
 In this step, you will install Python libraries used for deep learning, specifically PyTorch.
 
