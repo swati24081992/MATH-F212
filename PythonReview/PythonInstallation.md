@@ -146,7 +146,7 @@ conda activate pytorch-cpu-python-3-11
 
  ![image](https://github.com/coursesAM/APL405W24/assets/109568856/9462e2ef-43a2-4a1a-9de9-0a33dd47f09a)
 
-* Install PyTorch in this new environment. 
+* Install PyTorch in this new environment by typing in the following command. This command is obtained from the PyTorch website based on computer specifications 
 
 ```
 conda install pytorch torchvision torchaudio cpuonly -c pytorch
@@ -158,7 +158,7 @@ conda install pytorch torchvision torchaudio cpuonly -c pytorch
   import torch
   print(torch.__version__)
   ```
-  Make sure that you switch on the Python environment by typing `python`
+  Make sure that you switch on the Python environment by typing `python` before importing PyTorch.
 
 # Summary
 
