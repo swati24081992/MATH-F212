@@ -128,8 +128,8 @@ Jump into this [revision](), and in a week, you will pick up some cool Python tr
 |**Class Attendance**| 5 |
 |**Homework**   | 10 |
 |**Project**    | 20 |
-|**Minor #1**   | 15 | 
-|**Minor #2**   | 15 | 
+|**Quiz**       | 10 | 
+|**Minor**      | 20 | 
 |**Major**      | 25 |
 |**Total**      | 100| 
 
@@ -141,16 +141,16 @@ Jump into this [revision](), and in a week, you will pick up some cool Python tr
 
 |Component| Solution |
 |:-----:|:-----:|
-|**Minor #1**   | [Solution](Exams/Minor1_soln.pdf) | 
-|**Minor #2**   | [Solution](Exams/Minor2_soln.pdf) | 
-|**Major**      | [Solution](Exams/Major_soln.pdf) | 
+|**Quiz**    | [Solution](Exams/Quiz_soln.pdf) | 
+|**Minor**   | [Solution](Exams/Minor_soln.pdf) | 
+|**Major**   | [Solution](Exams/Major_soln.pdf) | 
 
 
 ## Project (tentative)
 
 A maximum of *two students per project* is allowed
 
-Choose from any one of the catergory of projects you like. Each catergory has different maximum attainable marks.
+Choose from any one of the categories of projects you like. Each category has different maximum attainable marks.
 
 * Option A (Literature survey) [**15/20 marks**]:
   * Pick a problem that interests you within the domain of civil and/or mechanical engineering
