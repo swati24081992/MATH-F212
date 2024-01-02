@@ -13,7 +13,7 @@
 
 **Practical Session:** Fri (3:15 to 5:15 PM) at two labs LH503 and LH502 <br> <br>
 
-**Attendance and Marks:** [Check here](https://docs.google.com/spreadsheets/d/1cNLiHFvedAHg2fuzllDPBvBgMpPTKr7R/edit#gid=221773594)
+**Attendance and Marks:** 
 
 **Office hours (TA)**: By email appointment <br> 
 **Office hours (Instructor)**: By email appointment (Room B24, Block 4) <br><br>
@@ -53,22 +53,17 @@ These methods will be studied from various applications throughout the course. T
 * Linear Regression and Logistic regression 
 * Polynomial regression
 * Bias-Variance decomposition
-* Loss function vs likelihood based models
+* Loss function vs likelihood-based models
 * Regularization
 * Parameter optimization
 * Three sets: Train, test, validation
 * Neural Networks (NN)
 * Support vector machine (SVM) 
 * Ensemble algorithms
-* Unsupervised Learning (Representation Learning and Dimensionality Reduction)
-
-<!--
-  * PCA
-  * Kernel PCA
-  * ICA
-  * k-means clustering
-  * EM algorithm
--->
+* PCA
+* k-means clustering
+* EM algorithm
+* Reinforcement learning
 
 ## Lecture Schedule
 
