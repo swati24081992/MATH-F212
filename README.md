@@ -50,7 +50,6 @@ These methods will be studied from various applications throughout the course. T
 
 ## Course Structure
 * Introduction 
-* Supervised Learning 
 * k-NN and Decision Trees 
 * Linear Regression and Logistic regression 
 * Polynomial regression
