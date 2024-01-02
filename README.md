@@ -69,7 +69,7 @@ These methods will be studied from various applications throughout the course. T
 
 ## Lecture Schedule
 
-|Module#| Main Topic | Sub Topics|Lecture Notes (2022)| 
+|Module#| Main Topic | Sub Topics|Lecture Notes (2023)| 
 |:----------:|:------------------------------:|:------------------:|:-----------------:|
 |Module 00| Introduction | | [Lecture 1](Lectures/Lecture1.pdf)  |
 |Module 01| A Preliminary Approach <br> to Supervised Learning| Background <br> k-Nearest Neighbours <br> Decision Trees | [Lecture 2](Lectures/Lecture2.pdf) <br> [Lecture 3](Lectures/Lecture3.pdf) <br> [Lecture 4](Lectures/Lecture4.pdf)| 
