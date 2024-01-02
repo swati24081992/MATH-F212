@@ -124,8 +124,7 @@ Jump into this [revision](), and in a week, you will pick up some cool Python tr
 
 |Component|Scores| 
 |:---|:-----:|
-|**Practical Exam** | 10 |
-|**Class Attendance**| 5 |
+|**Practical Attendance + Exam** | 5 + 10 |
 |**Homework**   | 10 |
 |**Project**    | 20 |
 |**Quiz**       | 10 | 
