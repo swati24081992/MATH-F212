@@ -6,11 +6,12 @@
 ## Course Info
 
 **Credit:** 3 units (2-0-2) <br> 
-**Pre-requisites:** APL101/MTL106/MTL108, COL106 <br><br>
 
-**Instructors:** [Rajdip Nayek](https://sites.google.com/view/rajdip-nayek/) (rajdipn@am.iitd.ac.in) <br> <br>
+**Pre-requisites:** APL101/MTL106/MTL108, COL106 <br>
 
-**Class timings:** Tue, Thu & Fri (11:00 to 11:50 AM) at LHC517 <br><br>
+**Instructors:** [Rajdip Nayek](https://sites.google.com/view/rajdip-nayek/) (rajdipn@am.iitd.ac.in) <br> 
+
+**Class timings:** Tue, Thu & Fri (11:00 to 11:50 AM) at LHC517 <br>
 
 **Practical Session:** Fri (3:15 to 5:15 PM) at two labs LH503 and LH502 <br> <br>
 
@@ -68,7 +69,7 @@ These methods will be studied from various applications throughout the course. T
 
 ## Lecture Schedule
 
-|Module#| Main Topic | Sub Topics|Lecture Notes| 
+|Module#| Main Topic | Sub Topics|Lecture Notes (2022)| 
 |:----------:|:------------------------------:|:------------------:|:-----------------:|
 |Module 00| Introduction | | [Lecture 1](Lectures/Lecture1.pdf)  |
 |Module 01| A Preliminary Approach <br> to Supervised Learning| Background <br> k-Nearest Neighbours <br> Decision Trees | [Lecture 2](Lectures/Lecture2.pdf) <br> [Lecture 3](Lectures/Lecture3.pdf) <br> [Lecture 4](Lectures/Lecture4.pdf)| 
