@@ -1,6 +1,6 @@
 # APL405: Machine Learning for Mechanics (Winter semester 2024)
 
-![image](https://github.com/coursesAM/APL405W24/assets/109568856/1ced4624-c246-4303-bb67-3b3eb9d1e77f)
+![image](https://github.com/coursesAM/APL405W24/assets/109568856/a56eedeb-7cb1-42bc-a1f5-ed8ee1f6a70c)
 
 
 ## Course Info
