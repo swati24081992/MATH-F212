@@ -146,7 +146,7 @@ Jump into this [revision](), and in a week, you will pick up some cool Python tr
 |**Major**      | [Solution](Exams/Major_soln.pdf) | 
 
 
-## Project 
+## Project (tentative)
 
 A maximum of *two students per project* is allowed
 
