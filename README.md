@@ -107,16 +107,11 @@ A total of three homeworks would be given
 | HW2 |  [Homework 2](Homeworks/HW2.pdf) | | [Solution](Homeworks/HW2sol.pdf)|
 | HW3 |  [Homework 3](Homeworks/HW3.pdf) | [Datafiles](https://drive.google.com/file/d/1a8ZTb2gswnOnEw_IJMuUWsqoUgMgxwte/view?usp=sharing) <br> [Template](https://colab.research.google.com/drive/1tuCsaljFLtdzr6AxNK83e6-alNj4wdJP?usp=sharing)| [Solution](Homeworks/HW3sol.pdf)|
 
-## Python revision
-Python is the language that will be used for coding. Being good at Python means you can get things done faster because it's known for being quite simple. You can try out your ideas quickly and whip up some short and sweet code in Python. As a hands-on coder, you do not need to dig deep into how Python is built, but it is good to know it can handle a bunch of tasks.
-
-Jump into this [revision](), and in a week, you will pick up some cool Python tricks.
 
 ## Course References
-
+* Andreas Lindholm et. al., *"Machine Learning: A First Course for Engineers and Scientists"*, Cambridge University Press, 2022 [[free pdf](http://smlbook.org/book/sml-book-draft-latest.pdf)]
 * Christopher Bishop, *"Pattern Recognition and Machine Learning"*, Springer, 2006.
 * Andriy Burkov, *"The Hundred Page Machine Learning Book"*, 2019 [[free pdf](http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf)].
-*  Andreas Lindholm et. al., *"Machine Learning: A First Course for Engineers and Scientists"*, Cambridge University Press, 2022 [[free pdf](http://smlbook.org/book/sml-book-draft-latest.pdf)]
 * Brunton, Steven L., and J. Nathan Kutz. *"Data-driven science and engineering: Machine learning, dynamical systems, and control"*. Cambridge University Press, 2022.
 
 
