@@ -31,7 +31,6 @@
 - [Lecture Schedule](#lecture-schedule)
 - [Practical Schedule](#practical-schedule)
 - [Homework Schedule](#homework-schedule)
-- [Python Revision](#python-revision)
 - [Course References](#course-references)
 - [Grading](#grading)
 - [Project](#project)
