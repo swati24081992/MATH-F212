@@ -86,7 +86,7 @@ These methods will be studied from various applications throughout the course. T
 |Week# | Topics| Practical Questions | Notes | 
 |:------:|:---------:|:--------:|:-------:|
 | Week 0 | Probability refresher | [Practical 1](Practicals/Practical_1.pdf) | [Notes](Practicals/Probability_refresher_updated.pdf) |
-| Week 1 | k-Nearest Neighbours  | [Practical 2](https://colab.research.google.com/drive/1VqG7PNyaXpedQc83uB9cTLe-zQYF1Uvy?usp=sharing)) | |
+| Week 1 | k-Nearest Neighbours  | [Practical 2](https://colab.research.google.com/drive/1VqG7PNyaXpedQc83uB9cTLe-zQYF1Uvy?usp=sharing) | |
 | Week 2 | Decision Trees        | [Practical 3](https://colab.research.google.com/drive/15wcB0EsaIQz5N39lSCgD4yBR4KTnUQ9t?usp=sharing) | [Dataset](Practicals/Datasets/spring_stiffness_classify.h5) | 
 | Week 3 | Linear Regression     | [Practical 4](https://colab.research.google.com/drive/1SSpo6U-yALWmJlRnk787ntphnCLNJdcz?usp=sharing) | |
 | Week 4 | Logistic Regression   | [Practical 5](https://colab.research.google.com/drive/15vqeGXY1MfRkASo8jCMvbBeGkMmU7GRA?usp=sharing) | [Dataset](Practicals/Datasets/cancer.csv) | 
