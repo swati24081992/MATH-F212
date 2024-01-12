@@ -85,15 +85,15 @@ These methods will be studied from various applications throughout the course. T
 
 |Week# | Topics| Practical Questions | Notes | 
 |:------:|:---------:|:--------:|:-------:|
-| Week 1 | Probability refresher | [Practical 1](Practicals/Practical_1.pdf) | [Notes](Practicals/Probability_refresher_updated.pdf) |
-| Week 2 | k-Nearest Neighbours  | [Practical 2](Practicals/Practical_2.pdf) | |
-| Week 3 | Decision Trees        | [Practical 3](https://colab.research.google.com/drive/15wcB0EsaIQz5N39lSCgD4yBR4KTnUQ9t?usp=sharing) | [Dataset](Practicals/Datasets/spring_stiffness_classify.h5) | 
-| Week 4 | Linear Regression     | [Practical 4](https://colab.research.google.com/drive/1SSpo6U-yALWmJlRnk787ntphnCLNJdcz?usp=sharing) | |
-| Week 5 | Logistic Regression   | [Practical 5](https://colab.research.google.com/drive/15vqeGXY1MfRkASo8jCMvbBeGkMmU7GRA?usp=sharing) | [Dataset](Practicals/Datasets/cancer.csv) | 
-| Week 6 | Cross-validation & Bias-variance trade-off  | [Practical 6](https://colab.research.google.com/drive/13aViGO7WHNP6wzBKWtzNJI4iQwmoXZ9F?usp=sharing) | [Dataset](Practicals/Datasets/cancer.csv) | 
-| Week 7 | Introduction to PyTorch for Neural Nets | [Practical 7](https://colab.research.google.com/drive/1POGb8tZGDawVLZTfoPUitchtVpxvFwgg?usp=sharing)| | 
-| Week 8 | Support Vector Machine | [Practical 8](https://colab.research.google.com/drive/18-t0OXCsH0E2sCtgvEqDmizuGAy5yuZY?usp=sharing)| | 
-| Week 9 | Boosting | [Practical 9](https://colab.research.google.com/drive/1T5FhhRLGqVsdAbnVY3R16hYN8qSJkbm2?usp=sharing)| [Dataset](Practicals/Datasets/damage.csv)| 
+| Week 0 | Probability refresher | [Practical 1](Practicals/Practical_1.pdf) | [Notes](Practicals/Probability_refresher_updated.pdf) |
+| Week 1 | k-Nearest Neighbours  | [Practical 2](https://colab.research.google.com/drive/1VqG7PNyaXpedQc83uB9cTLe-zQYF1Uvy?usp=sharing)) | |
+| Week 2 | Decision Trees        | [Practical 3](https://colab.research.google.com/drive/15wcB0EsaIQz5N39lSCgD4yBR4KTnUQ9t?usp=sharing) | [Dataset](Practicals/Datasets/spring_stiffness_classify.h5) | 
+| Week 3 | Linear Regression     | [Practical 4](https://colab.research.google.com/drive/1SSpo6U-yALWmJlRnk787ntphnCLNJdcz?usp=sharing) | |
+| Week 4 | Logistic Regression   | [Practical 5](https://colab.research.google.com/drive/15vqeGXY1MfRkASo8jCMvbBeGkMmU7GRA?usp=sharing) | [Dataset](Practicals/Datasets/cancer.csv) | 
+| Week 5 | Cross-validation & Bias-variance trade-off  | [Practical 6](https://colab.research.google.com/drive/13aViGO7WHNP6wzBKWtzNJI4iQwmoXZ9F?usp=sharing) | [Dataset](Practicals/Datasets/cancer.csv) | 
+| Week 6 | Introduction to PyTorch for Neural Nets | [Practical 7](https://colab.research.google.com/drive/1POGb8tZGDawVLZTfoPUitchtVpxvFwgg?usp=sharing)| | 
+| Week 7 | Support Vector Machine | [Practical 8](https://colab.research.google.com/drive/18-t0OXCsH0E2sCtgvEqDmizuGAy5yuZY?usp=sharing)| | 
+| Week 8 | Boosting | [Practical 9](https://colab.research.google.com/drive/1T5FhhRLGqVsdAbnVY3R16hYN8qSJkbm2?usp=sharing)| [Dataset](Practicals/Datasets/damage.csv)| 
 
 
 
