@@ -15,7 +15,7 @@
 
 **Practical Session:** Fri (3 PM to 5 PM) at two labs LH503 and LH502 <br> <br>
 
-**Attendance and Marks:** 
+**Attendance and Marks:** [Link here](https://docs.google.com/spreadsheets/d/1dkHXrfufbpG6P75PFV1eT8Ll7bcTSrFx2Au0paBTgdU/edit?usp=sharing)
 
 **Office hours (TA)**: By email appointment <br> 
 **Office hours (Instructor)**: By email appointment (Room B24, Block 4) <br><br>
