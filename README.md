@@ -87,7 +87,7 @@ These methods will be studied from various applications throughout the course. T
 |:------:|:---------:|:--------:|:-------:|
 | Week 0 | Probability refresher | [Practical 0](Practicals/Practical_1.pdf) | [Notes](Practicals/Probability_refresher_updated.pdf) |
 | Week 1 | k-Nearest Neighbours  | [Practical 1](https://colab.research.google.com/drive/1VqG7PNyaXpedQc83uB9cTLe-zQYF1Uvy?usp=sharing) | |
-| Week 2 | Decision Trees        | [Practical 2](https://colab.research.google.com/drive/15wcB0EsaIQz5N39lSCgD4yBR4KTnUQ9t?usp=sharing) | [Dataset](Practicals/Datasets/spring_stiffness_classify.h5) | 
+| Week 2 | Decision Trees        | [Practical 2](https://colab.research.google.com/drive/1c3L4Hax0hYIo9-vH-6Klpcu5rAcqsNw2?usp=sharing) | [Dataset](Practicals/Datasets/spring_stiffness_classify.h5) | 
 | Week 3 | Linear Regression     | [Practical 3](https://colab.research.google.com/drive/1SSpo6U-yALWmJlRnk787ntphnCLNJdcz?usp=sharing) | |
 | Week 4 | Logistic Regression   | [Practical 4](https://colab.research.google.com/drive/15vqeGXY1MfRkASo8jCMvbBeGkMmU7GRA?usp=sharing) | [Dataset](Practicals/Datasets/cancer.csv) | 
 | Week 5 | Cross-validation & Bias-variance trade-off  | [Practical 5](https://colab.research.google.com/drive/13aViGO7WHNP6wzBKWtzNJI4iQwmoXZ9F?usp=sharing) | [Dataset](Practicals/Datasets/cancer.csv) | 
