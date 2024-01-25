@@ -100,9 +100,9 @@ These methods will be studied from various applications throughout the course. T
 ## Homework Schedule
 A total of three homeworks would be given
 
-|HW# | Questions| Writeup | Solutions |
+|HW# | Zip file| Writeup | Solutions |
 |:------:|:---------:|:--------:|:---------:|
-| HW1 |  [Homework 1](Homeworks/HW1.zip) | [Homework 1](Homeworks/HW1.pdf) | |
+| HW1 |  [Homework zip 1](Homeworks/HW1.zip) | [Homework 1](Homeworks/HW1.pdf) | |
 
 
 ## Course References
