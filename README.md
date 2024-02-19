@@ -102,7 +102,7 @@ A total of three homeworks would be given
 
 |HW# | Zip file| Writeup | Solutions |
 |:------:|:---------:|:--------:|:---------:|
-| HW1 |  [Homework zip 1](Homeworks/HW1.zip) | [Homework 1](Homeworks/HW1.pdf) | [Homework 1](Homeworks/HW1soln_writeup.pdf)|
+| HW1 |  [Homework zip 1](Homeworks/HW1.zip) | [Homework 1](Homeworks/HW1.pdf) | [Writeup_soln](Homeworks/HW1soln_writeup.pdf)|
 
 
 ## Course References
