@@ -130,8 +130,8 @@ A total of three homeworks would be given
 
 |Component| Solution |
 |:-----:|:-----:|
+|**Minor**   | [Solution](Exams/Minor2024_sol.pdf) | 
 |**Quiz**    | [Solution](Exams/Quiz_soln.pdf) | 
-|**Minor**   | [Solution](Exams/Minor_soln.pdf) | 
 |**Major**   | [Solution](Exams/Major_soln.pdf) | 
 
 
