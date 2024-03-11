@@ -115,8 +115,8 @@ A total of three homeworks would be given
 |Component|Scores| 
 |:---|:-----:|
 |**Practical Attendance + Exam** | 5 + 10 |
-|**Homework**   | 10 |
-|**Project**    | 20 |
+|**Homework**   | 20 |
+|**Project**    | 10 |
 |**Quiz**       | 10 | 
 |**Minor**      | 20 | 
 |**Major**      | 25 |
