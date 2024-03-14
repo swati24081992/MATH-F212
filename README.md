@@ -91,7 +91,7 @@ These methods will be studied from various applications throughout the course. T
 | Week 3 | Linear Regression     | [Practical 3](https://colab.research.google.com/drive/1SSpo6U-yALWmJlRnk787ntphnCLNJdcz?usp=sharing) | |
 | Week 4 | Logistic Regression   | [Practical 4](https://colab.research.google.com/drive/1sdtXpIo4K3kM5rizinDlsEIp2POHWrKF?usp=sharing) | | 
 | Week 5 | Cross-validation & Bias-variance trade-off  | [Practical 5](https://colab.research.google.com/drive/1PFqSdKV2F_lPF7J9CYRZfHLfKz0iuo2Z?usp=sharing) |  | 
-| Week 6 | Neural network from Scratch | [Practical 6](https://colab.research.google.com/drive/1Wvj4fCqLvb-91rb7I2pM3PnpPH6p45ks?usp=sharing) | | 
+| Week 6 | Neural network from Scratch | [Practical 6](https://colab.research.google.com/drive/1Wvj4fCqLvb-91rb7I2pM3PnpPH6p45ks?usp=sharing) | [Solution](https://colab.research.google.com/drive/1EF14EbXITBoWRzamyjCVs1FxxA9U0F6o?usp=sharing) | 
 
 
 
