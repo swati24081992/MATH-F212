@@ -36,16 +36,16 @@
 - [Project](#project)
 
 ## Course Content
-This is an introductory course to statistical machine learning for students with some background in calculus, linear algebra and statistics. The course is focusing on supervised learning, i.e, classification and regression. The course will cover a range of methods used in machine learning and data science, including:
+This is an introductory course to statistical machine learning for students with some background in calculus, linear algebra, and statistics. The course focuses on supervised learning, i.e., classification and regression. The course will cover a range of methods used in machine learning and data science, including:
 - Linear regression
-- Classification via logistic regression and k-nearest neighbour
+- Classification via logistic regression and k-nearest neighbor
 - Regression and classification trees
 - Bagging and boosting
 - Neural networks and deep learning
 - Principal component analysis
 - k-means clustering
 
-These methods will be studied from various applications throughout the course. The course also covers important practical considerations such as cross-validation, model selection and the bias-variance trade-off. The course includes theory (e.g., derivations and proofs) as well as practice (notably the lab and the course project). The practical part will be implemented using Python.
+These methods will be studied from various applications throughout the course. The course also covers important practical considerations such as cross-validation, model selection, and the bias-variance trade-off. The course includes theory (e.g., derivations and proofs) and practice (notably the lab and the course project). The practical part will be implemented using Python.
 
 ## Course Structure
 * Introduction 
@@ -96,7 +96,7 @@ These methods will be studied from various applications throughout the course. T
 
 
 ## Homework Schedule
-A total of three homeworks would be given
+Three homeworks will be given
 
 |HW# | Zip file| Writeup | Solutions |
 |:------:|:---------:|:--------:|:---------:|
@@ -124,9 +124,8 @@ A total of three homeworks would be given
 |**Major**      | 25 |
 |**Total**      | 100| 
 
-- Students are highly encouraged to attend all classes, but there is no marks on lecture attendance. **You still have to mark your attendance on Timble. If the combined lecture-plus-practical attendance is below 75% of the total, one grade would be lowered.**
-- There would be a practical exam conducted towards the end of the semester.
-- A penalty of 50% of the mark of the respective homework would be deducted if submitted after the deadline. Any submissions two days after the deadline would not be accepted. 
+- Students are highly encouraged to attend all classes, but there are no marks on lecture attendance. **You still have to mark your attendance on Timble. If the combined lecture-plus-practical attendance is below 75% of the total, one grade would be lowered.**
+- A penalty of 50% of the mark of the respective homework would be deducted if submitted after the deadline. Any submissions two days after the deadline will not be accepted. 
 
 ## Exams
 
@@ -139,4 +138,4 @@ A total of three homeworks would be given
 
 ## Project (tentative)
 
-Will be Kaggle based competitions
+TBD
