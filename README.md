@@ -124,7 +124,7 @@ Three homeworks will be given
 |**Major**      | 25 |
 |**Total**      | 100| 
 
-- Students are highly encouraged to attend all classes, but there are no marks on lecture attendance. **You still have to mark your attendance on Timble. If the combined lecture-plus-practical attendance is below 75% of the total, one grade would be lowered.**
+- Students are highly encouraged to attend all classes, but there are no marks on lecture attendance. **You still have to mark your attendance on Timble. If the combined lecture-plus-practical attendance is below 75% of the total, one grade will be lowered.**
 - A penalty of 50% of the mark of the respective homework would be deducted if submitted after the deadline. Any submissions two days after the deadline will not be accepted. 
 
 ## Exams
@@ -138,4 +138,6 @@ Three homeworks will be given
 
 ## Project (tentative)
 
-TBD
+The course project is described [here](https://drive.google.com/file/d/194L4ay0NFESSbUdUCremyPefMnaSYRTP/view?usp=drive_link)
+
+Datafiles for the course project can be found [here](https://drive.google.com/file/d/1CBLbrkEDRsjtrJnjr_tjZTnBTDtMlk0q/view?usp=sharing)
