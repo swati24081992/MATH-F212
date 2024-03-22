@@ -136,7 +136,7 @@ Three homeworks will be given
 |**Major**   | [Solution](Exams/Major_soln.pdf) | 
 
 
-## Project (tentative)
+## Project
 
 The course project is described [here](https://drive.google.com/file/d/194L4ay0NFESSbUdUCremyPefMnaSYRTP/view?usp=drive_link)
 
