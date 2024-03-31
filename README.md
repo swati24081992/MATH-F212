@@ -82,6 +82,7 @@ These methods will be studied from various applications throughout the course. T
 
 
 ## Practical Schedule
+There will be no make-up labs for students who might have missed the labs due to genuine medical reasons. Marks for the missed labs will adjusted based on the performance of the class on all labs and your performance in the labs you were present.
 
 |Week# | Topics| Practical Questions | Notes | 
 |:------:|:---------:|:--------:|:-------:|
