@@ -70,12 +70,12 @@ These methods will be studied from various applications throughout the course. T
 |Module#| Main Topic | Sub Topics|Lecture Notes (2024)| Extra material |
 |:----------:|:------------------------------:|:------------------:|:-----------------:|:--------------:|
 |Module 00| Introduction | | [Lecture 1](Lectures/Lecture1.pdf)  | |
-|Module 01| A Preliminary Approach <br> to Supervised Learning| Background <br> k-Nearest Neighbours <br> Decision Trees | [Lecture 2](Lectures/Lecture2.pdf) <br> [Lecture 3](Lectures/Lecture3.pdf) <br> [Lecture 4](Lectures/Lecture4.pdf)| |
-|Module 02| Basic Parametric Models | Linear regression <br> Logistic Regression <br> Regularization | [Lecture 5](Lectures/Lecture5.pdf) <br> [Lecture 6](Lectures/Lecture6.pdf) <br> [Lecture 7](Lectures/Lecture7.pdf)|  |
-|Module 03| Evaluating Performance | Cross-validation <br> Training error-generalization gap <br> Bias-variance decomposition | [Lecture 8](Lectures/Lecture8.pdf) <br> [Lecture 9](Lectures/Lecture9.pdf) <br> [Lecture 10](Lectures/Lecture10.pdf)|  |
-|Module 04| Learning Parametric Models | Loss functions <br> Parameter Optimization | [Lecture 11](Lectures/Lecture11.pdf) <br>  [Lecture 12](Lectures/Lecture12.pdf)|  |
-|Module 05| Neural Networks | Feedforward neural network <br> Backpropagation <br> Convolutional Neural Network | [Lecture 13](Lectures/Lecture13.pdf) <br>  [Lecture 14](Lectures/Lecture14.pdf) <br>  [Lecture 15](Lectures/Lecture15.pdf)|  |
-|Module 06| Kernel Methods | Kernel Ridge Regression <br> Theory of kernels <br> Support Vector Classification | [Lecture 16](Lectures/Lecture16.pdf)  <br>  [Lecture 17](Lectures/Lecture17.pdf) <br>  [Lecture 18](Lectures/Lecture18.pdf)|  |
+|Module 01| A Preliminary Approach <br> to Supervised Learning| Background <br> k-Nearest Neighbours <br> Decision Trees | [Lecture 2](Lectures/Lecture2.pdf) <br> [Lecture 3](Lectures/Lecture3.pdf) <br> [Lecture 4](Lectures/Lecture4.pdf)| [AL] Chapter 2|
+|Module 02| Basic Parametric Models | Linear regression <br> Logistic Regression <br> Regularization | [Lecture 5](Lectures/Lecture5.pdf) <br> [Lecture 6](Lectures/Lecture6.pdf) <br> [Lecture 7](Lectures/Lecture7.pdf)| [AL] Chapter 3 |
+|Module 03| Evaluating Performance | Cross-validation <br> Training error-generalization gap <br> Bias-variance decomposition | [Lecture 8](Lectures/Lecture8.pdf) <br> [Lecture 9](Lectures/Lecture9.pdf) <br> [Lecture 10](Lectures/Lecture10.pdf)| [AL] Chapter 4  |
+|Module 04| Learning Parametric Models | Loss functions <br> Parameter Optimization | [Lecture 11](Lectures/Lecture11.pdf) <br>  [Lecture 12](Lectures/Lecture12.pdf)| [AL] Chapter 5, [Lecture 5 from Prof. Mitesh Khapra's lecture notes](http://www.cse.iitm.ac.in/~miteshk/CS6910.html) |
+|Module 05| Neural Networks | Feedforward neural network <br> Backpropagation <br> Convolutional Neural Network | [Lecture 13](Lectures/Lecture13.pdf) <br>  [Lecture 14](Lectures/Lecture14.pdf) <br>  [Lecture 15](Lectures/Lecture15.pdf)| [AL] Section 6.1, [Notes](Lectures/Backpropagation.pdf), [Lecture 8 from Prof. Mitesh Khapra's lecture notes](http://www.cse.iitm.ac.in/~miteshk/CS6910.html) |
+|Module 06| Kernel Methods | Kernel Ridge Regression <br> Theory of kernels <br> Support Vector Classification | [Lecture 16](Lectures/Lecture16.pdf)  <br>  [Lecture 17](Lectures/Lecture17.pdf) <br>  [Lecture 18](Lectures/Lecture18.pdf)| [AL] Chapter 8, [SN] Sections 5.5, 5.6 |
 |Module 07| Ensemble Methods | Bagging <br> Random Forests <br> Boosting | [Lecture 19](Lectures/Lecture19.pdf)  <br>  [Lecture 20](Lectures/Lecture20.pdf) <br>  [Lecture 21](Lectures/Lecture21.pdf)|  |
 |Module 09| Generative Models & <br> Unsupervised Learning  | Gaussian mixture models  <br> Gaussian mixture models (with EM) <br> k-means clustering <br> PCA | [Lecture 22](Lectures/Lecture22.pdf)  <br>  [Lecture 23](Lectures/Lecture23.pdf) <br>  [Lecture 24](Lectures/Lecture24.pdf) <br>  [Lecture 25](Lectures/Lecture25.pdf)|  |
 
@@ -87,7 +87,7 @@ There will be no make-up labs for students who might have missed the labs due to
 |Week# | Topics| Practical Questions | Notes | 
 |:------:|:---------:|:--------:|:-------:|
 | Week 0 | Probability refresher | [Practical 0](Practicals/Practical_1.pdf) | [Notes](Practicals/Probability_refresher_updated.pdf) |
-| Week 1 | k-Nearest Neighbours  | [Practical 1](https://colab.research.google.com/drive/1VqG7PNyaXpedQc83uB9cTLe-zQYF1Uvy?usp=sharing) | |
+| Week 1 | k-Nearest Neighbours  | [Practical 1](https://colab.research.google.com/drive/1VqG7PNyaXpedQc83uB9cTLe-zQYF1Uvy?usp=sharing) | Section |
 | Week 2 | Decision Trees        | [Practical 2](https://colab.research.google.com/drive/1c3L4Hax0hYIo9-vH-6Klpcu5rAcqsNw2?usp=sharing) | [Dataset](Practicals/Datasets/spring_stiffness_classify.h5) | 
 | Week 3 | Linear Regression     | [Practical 3](https://colab.research.google.com/drive/1SSpo6U-yALWmJlRnk787ntphnCLNJdcz?usp=sharing) | |
 | Week 4 | Logistic Regression   | [Practical 4](https://colab.research.google.com/drive/1sdtXpIo4K3kM5rizinDlsEIp2POHWrKF?usp=sharing) | | 
@@ -107,8 +107,9 @@ Three homeworks will be given
 
 
 ## Course References
-* Andreas Lindholm et. al., *"Machine Learning: A First Course for Engineers and Scientists"*, Cambridge University Press, 2022 [[free pdf](http://smlbook.org/book/sml-book-draft-latest.pdf)]
-* Christopher Bishop, *"Pattern Recognition and Machine Learning"*, Springer, 2006.
+* [AL] Andreas Lindholm et. al., *"Machine Learning: A First Course for Engineers and Scientists"*, Cambridge University Press, 2022 [[free pdf](http://smlbook.org/book/sml-book-draft-latest.pdf)]
+* [CB] Christopher Bishop, *"Pattern Recognition and Machine Learning"*, Springer, 2006. 
+* [SN] Soroush Nasiriany et. al., *"A Comprehensive Guide to Machine Learning"*, EECS Berkeley, 2019. [[free pdf](https://snasiriany.me/files/ml-book.pdf)]
 * Andriy Burkov, *"The Hundred Page Machine Learning Book"*, 2019 [[free pdf](http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf)].
 * Brunton, Steven L., and J. Nathan Kutz. *"Data-driven science and engineering: Machine learning, dynamical systems, and control"*. Cambridge University Press, 2022.
 
