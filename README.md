@@ -63,7 +63,6 @@ These methods will be studied from various applications throughout the course. T
 * PCA
 * k-means clustering
 * EM algorithm
-* Reinforcement learning
 
 ## Lecture Schedule
 
