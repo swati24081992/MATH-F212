@@ -107,7 +107,7 @@ Three homeworks will be given
 |:------:|:---------:|:--------:|:---------:|
 | HW1 |  [Homework zip 1](Homeworks/HW1.zip) | [Homework 1](Homeworks/HW1.pdf) | [Writeup_soln](Homeworks/HW1soln_writeup.pdf)|
 | HW2 |  [Homework zip 2](Homeworks/HW2.zip) | [Homework 1](Homeworks/HW2.pdf) | |
-
+| HW3 |  [Homework 3](Homeworks/HW3.pdf) | [Datafiles](https://drive.google.com/file/d/1a8ZTb2gswnOnEw_IJMuUWsqoUgMgxwte/view?usp=sharing) <br> [Template](https://colab.research.google.com/drive/1tuCsaljFLtdzr6AxNK83e6-alNj4wdJP?usp=sharing)| |
 
 
 ## Grading  
