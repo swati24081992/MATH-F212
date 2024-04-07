@@ -89,15 +89,15 @@ There will be no make-up labs for students who might have missed the labs due to
 
 |Week# | Topics| Practical Questions | Notes | 
 |:------:|:---------:|:--------:|:-------:|
-| Week 0 | Probability refresher | [Practical 0](Practicals/Practical_1.pdf) | [Notes](Practicals/Probability_refresher_updated.pdf) |
-| Week 1 | k-Nearest Neighbours  | [Practical 1](https://colab.research.google.com/drive/1VqG7PNyaXpedQc83uB9cTLe-zQYF1Uvy?usp=sharing) | Section |
-| Week 2 | Decision Trees        | [Practical 2](https://colab.research.google.com/drive/1c3L4Hax0hYIo9-vH-6Klpcu5rAcqsNw2?usp=sharing) | [Dataset](Practicals/Datasets/spring_stiffness_classify.h5) | 
-| Week 3 | Linear Regression     | [Practical 3](https://colab.research.google.com/drive/1SSpo6U-yALWmJlRnk787ntphnCLNJdcz?usp=sharing) | |
-| Week 4 | Logistic Regression   | [Practical 4](https://colab.research.google.com/drive/1sdtXpIo4K3kM5rizinDlsEIp2POHWrKF?usp=sharing) | | 
-| Week 5 | Cross-validation & Bias-variance trade-off  | [Practical 5](https://colab.research.google.com/drive/1PFqSdKV2F_lPF7J9CYRZfHLfKz0iuo2Z?usp=sharing) |  | 
-| Week 6 | Neural network in NumPy | [Practical 6](https://colab.research.google.com/drive/1Wvj4fCqLvb-91rb7I2pM3PnpPH6p45ks?usp=sharing) | [Solution](https://colab.research.google.com/drive/1EF14EbXITBoWRzamyjCVs1FxxA9U0F6o?usp=sharing) | 
-| Week 7 | Neural network in PyTorch | [Practical 7](https://colab.research.google.com/drive/1guRmisURiOFNkMG2cUdJGDX_RlDOUtz7?usp=sharing) | [Tutorial of GD with PyTorch gradients](https://mpol-dev.github.io/MPoL/ci-tutorials/PyTorch.html) |
-| Week 8 | SVM | [Practical 8](https://colab.research.google.com/drive/18-t0OXCsH0E2sCtgvEqDmizuGAy5yuZY?usp=sharing) | |
+| Wk 0 | Probability refresher | [Practical 0](Practicals/Practical_1.pdf) | [Notes](Practicals/Probability_refresher_updated.pdf) |
+| Wk 1 | k-Nearest Neighbours  | [Practical 1](https://colab.research.google.com/drive/1VqG7PNyaXpedQc83uB9cTLe-zQYF1Uvy?usp=sharing) | Section |
+| Wk 2 | Decision Trees        | [Practical 2](https://colab.research.google.com/drive/1c3L4Hax0hYIo9-vH-6Klpcu5rAcqsNw2?usp=sharing) | [Dataset](Practicals/Datasets/spring_stiffness_classify.h5) | 
+| Wk 3 | Linear Regression     | [Practical 3](https://colab.research.google.com/drive/1SSpo6U-yALWmJlRnk787ntphnCLNJdcz?usp=sharing) | |
+| Wk 4 | Logistic Regression   | [Practical 4](https://colab.research.google.com/drive/1sdtXpIo4K3kM5rizinDlsEIp2POHWrKF?usp=sharing) | | 
+| Wk 5 | Cross-validation & Bias-variance trade-off  | [Practical 5](https://colab.research.google.com/drive/1PFqSdKV2F_lPF7J9CYRZfHLfKz0iuo2Z?usp=sharing) |  | 
+| Wk 6 | Neural network in NumPy | [Practical 6](https://colab.research.google.com/drive/1Wvj4fCqLvb-91rb7I2pM3PnpPH6p45ks?usp=sharing) | [Solution](https://colab.research.google.com/drive/1EF14EbXITBoWRzamyjCVs1FxxA9U0F6o?usp=sharing) | 
+| Wk 7 | Neural network in PyTorch | [Practical 7](https://colab.research.google.com/drive/1guRmisURiOFNkMG2cUdJGDX_RlDOUtz7?usp=sharing) | [Tutorial of GD with PyTorch gradients](https://mpol-dev.github.io/MPoL/ci-tutorials/PyTorch.html) |
+| Wk 8 | SVM | [Practical 8](https://colab.research.google.com/drive/18-t0OXCsH0E2sCtgvEqDmizuGAy5yuZY?usp=sharing) | |
 
 
 ## Homework Schedule
