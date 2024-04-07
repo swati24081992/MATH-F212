@@ -130,7 +130,7 @@ Three homeworks will be given
 |Component| Solution |
 |:-----:|:-----:|
 |**Minor**   | [Solution](Exams/Minor2024_sol.pdf) | 
-|**Quiz**    | [Solution](Exams/Quiz_soln.pdf) | 
+|**Quiz**    | [Solution](Exams/quiz_sol.pdf) | 
 |**Major**   | [Solution](Exams/Major_soln.pdf) | 
 
 
