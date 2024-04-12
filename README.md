@@ -75,7 +75,7 @@ These methods will be studied from various applications throughout the course. T
 |Mod 04| Learning Parametric Models | Loss functions <br> Parameter Optimization | [Lecture 11](Lectures/Lecture11.pdf) <br>  [Lecture 12](Lectures/Lecture12.pdf)| [AL] Chapter 5, <br> [Lecture 5 by Prof. Mitesh Khapra](http://www.cse.iitm.ac.in/~miteshk/CS6910.html) |
 |Mod 05| Neural Networks | Feedforward neural network <br> Backpropagation <br> Convolutional Neural Network | [Lecture 13](Lectures/Lecture13.pdf) <br>  [Lecture 14](Lectures/Lecture14.pdf) <br>  [Lecture 15](Lectures/Lecture15.pdf)| [AL] Section 6.1, <br> [Video](https://www.youtube.com/playlist?list=PLcqHTXprNMIMinq16VTi6cFeTxuEqlqHC), <br> [Lecture 8 by Prof. Mitesh Khapra](http://www.cse.iitm.ac.in/~miteshk/CS6910.html) |
 |Mod 06| Kernel Methods | Kernel Ridge Regression <br> Theory of kernels <br> Support Vector Classification | [Lecture 16](Lectures/Lecture16.pdf)  <br>  [Lecture 17](Lectures/Lecture17.pdf) <br>  [Lecture 18](Lectures/Lecture18.pdf)| [AL] Chapter 8, <br> [SN] Sections 5.5, 5.6 |
-|Mod 07| Ensemble Methods | Bagging and Random Forests <br> Boosting | [Lecture 19](Lectures/Lecture19.pdf) <br>  [Lecture 20](Lectures/Lecture20.pdf)| [AL] Chapter 7 |
+|Mod 07| Ensemble Methods | Bagging & Random Forests <br> Boosting | [Lecture 19](Lectures/Lecture19.pdf) <br>  [Lecture 20](Lectures/Lecture20.pdf)| [AL] Chapter 7 |
 |Mod 09| Generative Models & <br> Unsupervised Learning  | Gaussian mixture models  <br> Gaussian mixture models (with EM) <br> k-means clustering <br> PCA | [Lecture 21](Lectures/Lecture21.pdf)  <br>  [Lecture 22](Lectures/Lecture22.pdf) <br>  [Lecture 23](Lectures/Lecture23.pdf) <br>  [Lecture 24](Lectures/Lecture24.pdf)|  |
 
 ## Course References
