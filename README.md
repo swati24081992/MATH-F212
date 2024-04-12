@@ -98,6 +98,7 @@ There will be no make-up labs for students who might have missed the labs due to
 | Wk 6 | Neural network in NumPy | [Practical 6](https://colab.research.google.com/drive/1Wvj4fCqLvb-91rb7I2pM3PnpPH6p45ks?usp=sharing) | [Solution](https://colab.research.google.com/drive/1EF14EbXITBoWRzamyjCVs1FxxA9U0F6o?usp=sharing) | 
 | Wk 7 | Neural network in PyTorch | [Practical 7](https://colab.research.google.com/drive/1guRmisURiOFNkMG2cUdJGDX_RlDOUtz7?usp=sharing) | [Tutorial of GD with PyTorch gradients](https://mpol-dev.github.io/MPoL/ci-tutorials/PyTorch.html) |
 | Wk 8 | SVM | [Practical 8](https://colab.research.google.com/drive/18-t0OXCsH0E2sCtgvEqDmizuGAy5yuZY?usp=sharing) | |
+| Wk 9 | Boosting | [Practical 9](https://colab.research.google.com/drive/1T5FhhRLGqVsdAbnVY3R16hYN8qSJkbm2?usp=sharing) | |
 
 
 ## Homework Schedule
