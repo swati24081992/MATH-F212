@@ -85,7 +85,7 @@ These methods will be studied from various applications throughout the course. T
 * Brunton, Steven L., and J. Nathan Kutz. *"Data-driven science and engineering: Machine learning, dynamical systems, and control"*. Cambridge University Press, 2022.
 
 ## Practical Schedule
-There will be no make-up labs for students who might have missed the labs due to genuine medical reasons. Marks for the missed labs will be adjusted based on the performance of the class on all labs and your performance in the labs you were present.
+There will be no make-up labs for students who might have missed the labs due to genuine medical reasons. Marks for the missed labs will be adjusted based on the performance of the class on all labs and your performance in the labs in which you were present.
 
 |Week# | Topics| Practical Questions | Notes | 
 |:------:|:---------:|:--------:|:-------:|
@@ -108,7 +108,7 @@ Three homeworks will be given
 |:------:|:---------:|:--------:|:---------:|
 | HW1 |  [Homework zip 1](Homeworks/HW1.zip) | [Homework 1](Homeworks/HW1.pdf) | [Writeup_soln](Homeworks/HW1soln_writeup.pdf)|
 | HW2 |  [Homework zip 2](Homeworks/HW2.zip) | [Homework 2](Homeworks/HW2.pdf) | |
-| HW3 | [Datafiles](https://drive.google.com/file/d/1a8ZTb2gswnOnEw_IJMuUWsqoUgMgxwte/view?usp=sharing) <br> [Code Template](https://colab.research.google.com/drive/1tuCsaljFLtdzr6AxNK83e6-alNj4wdJP?usp=sharing)|  [Homework 3](Homeworks/HW3.pdf) | |
+| HW3 | [Datafiles](https://drive.google.com/file/d/1a8ZTb2gswnOnEw_IJMuUWsqoUgMgxwte/view?usp=sharing) <br> [Code Template](https://colab.research.google.com/drive/1tuCsaljFLtdzr6AxNK83e6-alNj4wdJP?usp=sharing)|  [Homework 3](Homeworks/HW3.pdf) | [HW3sol](Homeworks/HW3sol.zip) |
 
 
 ## Grading  
