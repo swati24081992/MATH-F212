@@ -1,4 +1,4 @@
-# APL405: Machine Learning in Mechanics (Winter semester 2024)
+APL405: Machine Learning in Mechanics (Winter semester 2024)
 
 ![image](https://github.com/coursesAM/APL405W24/assets/109568856/a56eedeb-7cb1-42bc-a1f5-ed8ee1f6a70c)
 
@@ -13,7 +13,7 @@
 
 **Class timings:** Tue, Thu & Fri (11:00 to 11:50 AM) at LHC517 <br>
 
-**Practical Session:** Fri (3 PM to 5 PM) at two labs LH503 and LH502 <br> <br>
+**Practical Session:** Fri (3 PM to 5 PM) at two labs LH503  <br> <br>
 
 **Attendance and Marks:** [Link here](https://docs.google.com/spreadsheets/d/1dkHXrfufbpG6P75PFV1eT8Ll7bcTSrFx2Au0paBTgdU/edit?usp=sharing)
 
@@ -132,7 +132,7 @@ Three homeworks will be given
 |:-----:|:-----:|
 |**Minor**   | [Solution](Exams/Minor2024_sol.pdf) | 
 |**Quiz**    | [Solution](Exams/quiz_sol.pdf) | 
-|**Major**   | [Solution](Exams/Major_soln.pdf) | 
+|**Major**   | [Solution](Exams/Major24_soln.pdf) | 
 
 
 ## Project
