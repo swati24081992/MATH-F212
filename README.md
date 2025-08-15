@@ -1,27 +1,9 @@
-APL405: Machine Learning in Mechanics (Winter semester 2024)
+MATH-F212: Optimization (Fall semester 2025)
 
 ![image](https://github.com/coursesAM/APL405W24/assets/109568856/a56eedeb-7cb1-42bc-a1f5-ed8ee1f6a70c)
 
 
 ## Course Info
-
-**Credit:** 3 units (2-0-2) <br> 
-
-**Pre-requisites:** APL101/MTL106/MTL108, COL106 <br>
-
-**Instructors:** [Rajdip Nayek](https://sites.google.com/view/rajdip-nayek/) (rajdipn@am.iitd.ac.in) <br> 
-
-**Class timings:** Tue, Thu & Fri (11:00 to 11:50 AM) at LHC517 <br>
-
-**Practical Session:** Fri (3 PM to 5 PM) at two labs LH503  <br> <br>
-
-**Attendance and Marks:** [Link here](https://docs.google.com/spreadsheets/d/1dkHXrfufbpG6P75PFV1eT8Ll7bcTSrFx2Au0paBTgdU/edit?usp=sharing)
-
-**Office hours (TA)**: By email appointment <br> 
-**Office hours (Instructor)**: By email appointment (Room B24, Block 4) <br><br>
-
-**Intended audience:** BTech students in Applied Mechanics, Materials, Mechanical and Civil Engineering disciplines.<br>
-
 
 **NOTE**-For *all course related emails*, please put **APL405** in the subject line <br>
 
